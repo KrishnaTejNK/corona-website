@@ -43,16 +43,7 @@ function Navbar() {
             </li>
             <li className='nav-item'>
               <Link
-                to='/services'
-                className='nav-links'
-                onClick={closeMobileMenu}
-              >
-                Contact & Helpline
-              </Link>
-            </li>
-            <li className='nav-item'>
-              <Link
-                to='/products'
+                to='/ContactLink'
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
@@ -61,22 +52,21 @@ function Navbar() {
             </li>
             <li className='nav-item'>
               <Link
-                to='/products'
+                to='/Hospitals and Beds'
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
-                Hospitals Dashboards:
+                Hospital Dashboards
               </Link>
             </li>
-            
 
-            <li>
+            <li className='nav-item'>
               <Link
-                to='/sign-up'
-                className='nav-links-mobile'
+                to='/ContactNumber'
+                className='nav-links'
                 onClick={closeMobileMenu}
               >
-                Sign Up
+                Helpline Numbers
               </Link>
             </li>
           </ul>

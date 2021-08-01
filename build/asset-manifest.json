@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.faa4b056.chunk.css",
+    "main.js": "/static/js/main.98d324f4.chunk.js",
+    "main.js.map": "/static/js/main.98d324f4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1d94c98b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1d94c98b.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.a7ee24b2.chunk.js": "/static/js/2.a7ee24b2.chunk.js",
+    "static/js/2.a7ee24b2.chunk.js.map": "/static/js/2.a7ee24b2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c27401a1a3367aa7298a180bc616000b.js": "/precache-manifest.c27401a1a3367aa7298a180bc616000b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.faa4b056.chunk.css.map": "/static/css/main.faa4b056.chunk.css.map",
+    "static/js/2.a7ee24b2.chunk.js.LICENSE.txt": "/static/js/2.a7ee24b2.chunk.js.LICENSE.txt",
+    "static/media/Helpline.jpg": "/static/media/Helpline.43e395f3.jpg",
+    "static/media/Hospital.jpg": "/static/media/Hospital.e93ed6ec.jpg",
+    "static/media/Med.jpg": "/static/media/Med.b3daae2a.jpg",
+    "static/media/notification.png": "/static/media/notification.76bec615.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d94c98b.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.a7ee24b2.chunk.js",
+    "static/css/main.faa4b056.chunk.css",
+    "static/js/main.98d324f4.chunk.js"
+  ]
+}
